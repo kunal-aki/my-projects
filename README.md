@@ -25,5 +25,4 @@ The simulation visually shows:
 - Decision-making logic combining deterministic and random choices
 - Real-time display of actions and reasoning
 - Built entirely in Python with Pygame
-```
 
