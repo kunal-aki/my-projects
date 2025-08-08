@@ -27,4 +27,3 @@ The simulation visually shows:
 - Built entirely in Python with Pygame
 ```
 
-Let me know if you’d also like a `.gitignore` or a sample `LICENSE` file drafted for you.
